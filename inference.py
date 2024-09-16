@@ -102,7 +102,7 @@ results_buffer = []
 
 print("Starting processing...")
 with ThreadPoolExecutor(max_workers=4) as executor:  # Adjust max_workers based on CPU/GPU capacity
-    future_to_chunk = {executor.submit(process_chunk, df.iloc[i:i + chunk_size]): i for i in range(84000, 86000, chunk_size)}
+    future_to_chunk = {executor.submit(process_chunk, df.iloc[i:i + chunk_size]): i for i in range(0, len(df), chunk_size)}
 
     for future in as_completed(future_to_chunk):
         try:
