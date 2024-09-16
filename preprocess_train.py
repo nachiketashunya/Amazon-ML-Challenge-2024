@@ -48,4 +48,4 @@ def process_dataframe(df):
 
 processed_df = process_dataframe(df_train)
 
-processed_df.to_csv("processed_train.csv",index = False)
+processed_df.to_csv("data/processed_train.csv",index = False)

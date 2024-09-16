@@ -1,0 +1,32 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<image>What is the height?",
+                "role": "user"
+            },
+            {
+                "content": "27.5 centimetre",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/scratch/m23csa016/aml/train/51lzTNLQ-6S.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>What is the width?",
+                "role": "user"
+            },
+            {
+                "content": "12 centimetre",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/scratch/m23csa016/aml/train/51lzTNLQ-6S.jpg"
+        ]
+    }
+]

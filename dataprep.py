@@ -3,9 +3,9 @@ import json
 import os
 
 # Paths
-csv_file_path = 'allcsvs/processed_train.csv'  # Path to your CSV file
+csv_file_path = 'data/processed_train.csv'  # Path to your CSV file
 image_folder_path = '/scratch/m23csa016/aml/train'  # Folder where your images are stored
-output_json_file = 'processed_train.json'  # Output JSON file
+output_json_file = 'data/processed_train.json'  # Output JSON file
 
 # Initialize list to store the dataset
 dataset = []
