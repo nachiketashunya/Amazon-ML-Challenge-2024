@@ -1,3 +1,10 @@
+## Collaborators
+
+- [Alli Khadga Jyoth](https://github.com/KhadgaA)
+- [Kushal Agrawal](https://github.com/kushal150699)
+- [Nachiketa Purohit](https://github.com/nachiketashunya)
+- [Ritu Singh](https://github.com/ritutweets46)
+
 > Please change the path directories accordingly in each file.
 # Initial FineTuning the model
 1. Download data using the code provided by the host.
