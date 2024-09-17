@@ -11,7 +11,7 @@
 2. Preprocess train data `preprocess_train.py`
 3. Creating JSON for finetuning with LLaMA-Factory `dataprep.py`
 4. Follow guidelines given in docs of LLaMA-Factory to register our dataset. (Refer `data/example.json`)
-5. For finetuning follow `finetune.ipynb`. Settings for finetuning will registered using WebUI.
+5. For finetuning follow `finetune.ipynb`. Settings for finetuning will be registered using WebUI.
 
 # Inferencing of Finetuned Model
 1. Run `inference.py`
