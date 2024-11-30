@@ -1,4 +1,4 @@
-## Collaborators
+## Collaborators [Team NeuralNinjas]
 
 - [Alli Khadga Jyoth](https://github.com/KhadgaA)
 - [Kushal Agrawal](https://github.com/kushal150699)
